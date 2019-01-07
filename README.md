@@ -1,8 +1,8 @@
 # mobile-move-animate
 ## 移动端页面整屏滚动动画
 ### 效果 ：
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
-https://github.com/issochen/mobile-move-animate/blob/master/1.2019-01-07%2023_28_14.gif
+![image](https://github.com/issochen/mobile-move-animate/blob/master/1.2019-01-07%2023_28_14.gif)
+
 ### 下载 直接 引入  <script src="move.js"></script>  即可使用 
 ### Html 结构
 ```
