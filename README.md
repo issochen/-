@@ -1,6 +1,6 @@
 # mobile-move-animate
 ## 移动端页面整屏滚动动画
-### 效果 ：
+### 效果 ：(gif 太卡了 没制作好)
 ![image](https://github.com/issochen/mobile-move-animate/blob/master/1.2019-01-07%2023_28_14.gif)
 
 ### 下载 直接 引入  <script src="move.js"></script>  即可使用 
