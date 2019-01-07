@@ -1,9 +1,9 @@
-#mobile-move-animate
-##移动端页面整屏滚动动画
-###效果 ：
+# mobile-move-animate
+## 移动端页面整屏滚动动画
+### 效果 ：
 
-###下载 直接 引入  <script src="move.js"></script>  即可使用 
-###Html 结构
+### 下载 直接 引入  <script src="move.js"></script>  即可使用 
+### Html 结构
 ···
  <article class="wrapper">
    <section class="section-1 section">1</section>
@@ -13,7 +13,7 @@
    <section class="section-5 section">5</section>
   </article>
  ···
-###css 样式 
+### css 样式 
 html, body {
       height: 100%;
       overflow: hidden;
