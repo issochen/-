@@ -4,7 +4,7 @@
 
 下载 直接 引入  <script src="move.js"></script>  即可使用 
 Html 结构
-#  <article class="wrapper">
+//  <article class="wrapper">
 #    <section class="section-1 section">1</section>
 #    <section class="section-2 section">2</section>
 #    <section class="section-3 section">3</section>
